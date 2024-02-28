@@ -1,9 +1,28 @@
 # Towards Visual-Prompt Temporal Answering Grounding in Instructional Video
 
 
+<p align="center">
+    <img alt="GitHub" src="https://img.shields.io/github/license/WENGSYX/VPTSL.svg?color=blue&style=flat-square">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/WENGSYX/VPTSL">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/WENGSYX/VPTSL">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WENGSYX/VPTSL">
+</p>
 
-## Updates
-- 2023/2/27  updates codes
+
+
+**Authors**: Yixuan Weng, Shizhu He, Kang Liu, Shengping Liu, Jun Zhao 😎
+
+**[Contact]** If you have any questions, feel free to contact me via ([Email](mailto:libincn@hnu.edu.cn?subject=VPTSL)).
+
+This repository contains code, models, and other related resources of our paper ["Towards Visual-Prompt Temporal Answering Grounding in Instructional Video"](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22182736.v1).
+
+* [2024/02/28] We released the dataset! 
+* [2023/03/02] We have published the paper!
+* [2023/02/14] We released the code!
+  
+****
+
+**Welcome to the VPTSL Project - We design the text span-based predictor, where the input text question, video subtitles, and visual prompt features are jointly learned with the pre-trained language model for enhancing the joint semantic representations.**🚀🚅
 
 
 
