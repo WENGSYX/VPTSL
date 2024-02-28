@@ -10,7 +10,7 @@
 
 
 
-**Authors**: Yixuan Weng, Shizhu He, Kang Liu, Shengping Liu, Jun Zhao 😎
+**Authors**: Shutao Li, Bin Li, Bin Sun, Yixuan Weng😎
 
 **[Contact]** If you have any questions, feel free to contact me via ([Email](mailto:libincn@hnu.edu.cn?subject=VPTSL)).
 
