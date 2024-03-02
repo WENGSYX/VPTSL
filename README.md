@@ -1,4 +1,4 @@
-<img width="706" alt="1709390503547" src="https://github.com/WENGSYX/VPTSL/assets/64484703/45702284-9617-4778-adea-e0ac536ff47e"># Towards Visual-Prompt Temporal Answering Grounding in Instructional Video
+# Towards Visual-Prompt Temporal Answering Grounding in Instructional Video
 
 
 <p align="center">
