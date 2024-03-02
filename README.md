@@ -1,4 +1,4 @@
-# Towards Visual-Prompt Temporal Answering Grounding in Instructional Video
+<img width="706" alt="1709390503547" src="https://github.com/WENGSYX/VPTSL/assets/64484703/45702284-9617-4778-adea-e0ac536ff47e"># Towards Visual-Prompt Temporal Answering Grounding in Instructional Video
 
 
 <p align="center">
@@ -24,7 +24,7 @@ This repository contains code, models, and other related resources of our paper 
 
 **Welcome to the VPTSL Project - We design the text span-based predictor, where the input text question, video subtitles, and visual prompt features are jointly learned with the pre-trained language model for enhancing the joint semantic representations.**🚀🚅
 
-
+![main](./image/main.png)
 
 ## Prerequisites
 - python 3.7 with pytorch (`1.10.0`), transformers(`4.15.0`), tqdm, accelerate, pandas, numpy, glob, sentencepiece
@@ -72,6 +72,8 @@ Download the **VehicleVQA** dataset from [here](mailto:libincn@hnu.edu.cn?subjec
 place them in `./data` directory.
 
 ## Quick Start
+
+![main](./image/visual_prompt.png)
 ### Get Best
 
 ```shell script
@@ -106,3 +108,17 @@ python main.py --shape large \
 > In this phase, training and testing will be carried out.
 >
 > In addition, after each round of training, it will be tested in the valid and test sets. In our paper, we report the model with the highest valid set and its score in the test set
+
+![main](./image/table.png)
+
+
+## Cite
+
+```
+@article{10.36227/techrxiv.22182736.v1,
+  author = {Li, S. and Li, B. and Sun, B. and Weng, Y.},
+  title = {Towards visual-prompt temporal answer grounding in instructional video},
+  year = {2023},
+  doi = {10.36227/techrxiv.22182736.v1}
+}
+```
