@@ -61,6 +61,39 @@ pip install tqdm transformers sklearn pandas numpy glob accelerate sentencepiece
 ```
 
 ### Download Data
+##### Download the dataset from [here](https://drive.google.com/drive/folders/1DveFUSKiui1lPlz-0yk9uYyY3BpiYfuH?usp=sharing)  [Copyright belongs to [NIH](https://arxiv.org/abs/2201.12888)]
+
+You can choice one of them, and unzip it:  `MedVidQA.zip`, `TutorialVQA.zip`, `VehicleVQA.zip`, `Coin.zip`, and `Crosstalk.zip`.
+
+```
+cd ./data
+unzip xxxxxx.zip
+```
+
+Then you will see the dataset file folders:
+```
+- data
+  - MedVidQA
+    - features
+      - _1NofulQlHs.npy
+      - _6csIJAWj_s.npy
+      - ...
+    - text
+      - train.json
+      - val.json
+      - test.json
+  - TutorialVQA
+    - ...
+  - VehicleVQA.zip
+    - ...
+  - Coin
+    - ...
+  - Crosstalk
+    - ...
+
+```
+
+
 
 ##### Download the MedVidQA dataset from [here](https://pan.baidu.com/s/1lcBUb8JYWUVaZcRZq3RT5Q?pwd=8888 
 )  [Copyright belongs to [NIH](https://arxiv.org/abs/2201.12888)]
