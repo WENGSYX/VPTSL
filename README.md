@@ -64,11 +64,16 @@ pip install tqdm transformers sklearn pandas numpy glob accelerate sentencepiece
 
 
 You can choice one of them, and unzip it:  
-[MedVidQA.zip](https://drive.google.com/file/d/1fsG3AUrnZ_Zjye9pN2wTawGQJipSde0u/view?usp=drive_link),  Copyright belongs to [NIH](https://arxiv.org/abs/2201.12888)
-[TutorialVQA.zip](https://drive.google.com/file/d/17LNKrHvqNGevKPaE8K8fTK8ZEoBoeRIe/view?usp=drive_link);
-[VehicleVQA.zip](https://drive.google.com/file/d/1AmJ-eGbzoetaOq4jHBUUPtrDeJGTbX6f/view?usp=sharing);
-[Coin.zip](https://drive.google.com/file/d/1fsG3AUrnZ_Zjye9pN2wTawGQJipSde0u/view?usp=drive_link);
-[Crosstalk.zip](https://drive.google.com/file/d/1fsG3AUrnZ_Zjye9pN2wTawGQJipSde0u/view?usp=drive_link).
+> [MedVidQA.zip](https://drive.google.com/file/d/1fsG3AUrnZ_Zjye9pN2wTawGQJipSde0u/view?usp=drive_link),  Copyright belongs to [NIH](https://arxiv.org/abs/2201.12888)
+
+> [TutorialVQA.zip](https://drive.google.com/file/d/17LNKrHvqNGevKPaE8K8fTK8ZEoBoeRIe/view?usp=drive_link);
+
+> [VehicleVQA.zip](https://drive.google.com/file/d/1AmJ-eGbzoetaOq4jHBUUPtrDeJGTbX6f/view?usp=sharing);
+
+> [Coin.zip](https://drive.google.com/file/d/1fsG3AUrnZ_Zjye9pN2wTawGQJipSde0u/view?usp=drive_link);
+
+> [Crosstalk.zip](https://drive.google.com/file/d/1fsG3AUrnZ_Zjye9pN2wTawGQJipSde0u/view?usp=drive_link).
+
 
 ```
 cd ./data
