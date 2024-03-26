@@ -156,3 +156,43 @@ python main.py --shape large \
   doi = {10.36227/techrxiv.22182736.v1}
 }
 ```
+
+## Relate Words
+
+
+#### Learning to Locate Visual Answer in Video Corpus Using Question
+
+[PAPER](https://ieeexplore.ieee.org/iel7/10094559/10094560/10096391.pdf) [CODE](https://github.com/WENGSYX/CCGS)
+
+```
+@article{li2022learning,
+  title={Learning to Locate Visual Answer in Video Corpus Using Question},
+  author={Li, Bin and Weng, Yixuan and Sun, Bin and Li, Shutao},
+  journal={arXiv preprint arXiv:2210.05423},
+  year={2022}
+}
+```
+
+
+#### Visual Answer Localization with Cross-modal Mutual Knowledge Transfer
+
+[PAPER](https://ieeexplore.ieee.org/document/10096391) [CODE](https://github.com/WENGSYX/MutualSL)
+
+```
+@article{weng2022visual,
+  title={Visual Answer Localization with Cross-modal Mutual Knowledge Transfer},
+  author={Weng, Yixuan and Li, Bin},
+  journal={arXiv preprint arXiv:2210.14823},
+  year={2022}
+}
+```
+
+
+#### Share Task! NLPCC 2023 CMIVQA
+
+[Homepage](https://cmivqa.github.io/)
+
+
+#### Share Task! NLPCC 2024 MMIVQA
+
+[Homepage](https://cmivqa.github.io/)
