@@ -64,7 +64,7 @@ pip install tqdm transformers sklearn pandas numpy glob accelerate sentencepiece
 
 
 You can choice one of them, and unzip it:  
-> [MedVidQA.zip](https://drive.google.com/file/d/1fsG3AUrnZ_Zjye9pN2wTawGQJipSde0u/view?usp=drive_link),  Copyright belongs to [NIH](https://arxiv.org/abs/2201.12888)
+> [MedVidQA.zip](https://drive.google.com/file/d/17QVpwmhDhL38bi1T85jhoy2jcmjVA_P7/view?usp=sharing),  Copyright belongs to [NIH](https://arxiv.org/abs/2201.12888)
 
 > [TutorialVQA.zip](https://drive.google.com/file/d/17LNKrHvqNGevKPaE8K8fTK8ZEoBoeRIe/view?usp=drive_link);
 
@@ -72,7 +72,7 @@ You can choice one of them, and unzip it:
 
 > [Coin.zip](https://drive.google.com/file/d/1fsG3AUrnZ_Zjye9pN2wTawGQJipSde0u/view?usp=drive_link);
 
-> [Crosstalk.zip](https://drive.google.com/file/d/1fsG3AUrnZ_Zjye9pN2wTawGQJipSde0u/view?usp=drive_link).
+> [Crosstalk.zip](https://drive.google.com/file/d/19NXc7yq2rrEHWK5mw4puavL5yoUG1CL-/view?usp=sharing).
 
 
 ```
