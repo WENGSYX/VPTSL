@@ -1,4 +1,4 @@
-# Towards Visual-Prompt Temporal Answering Grounding in Instructional Video
+# [TPAMI] Towards Visual-Prompt Temporal Answering Grounding in Instructional Video
 
 
 <p align="center">
