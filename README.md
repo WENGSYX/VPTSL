@@ -149,12 +149,17 @@ python main.py --shape large \
 ## Cite
 
 ```
-@article{10.36227/techrxiv.22182736.v1,
-  author = {Li, S. and Li, B. and Sun, B. and Weng, Y.},
-  title = {Towards visual-prompt temporal answer grounding in instructional video},
-  year = {2023},
-  doi = {10.36227/techrxiv.22182736.v1}
-}
+@ARTICLE{10552074,
+  author={Li, Shutao and Li, Bin and Sun, Bin and Weng, Yixuan},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Towards Visual-Prompt Temporal Answer Grounding in Instructional Video}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-18},
+  keywords={Visualization;Task analysis;Thyroid;Feature extraction;Semantics;Grounding;Location awareness;Temporal answer grounding;instructional video;visual prompt;pre-trained language model},
+  doi={10.1109/TPAMI.2024.3411045}}
+
 ```
 
 ## Relate Words
@@ -165,12 +170,17 @@ python main.py --shape large \
 [PAPER](https://ieeexplore.ieee.org/iel7/10094559/10094560/10096391.pdf) [CODE](https://github.com/WENGSYX/CCGS)
 
 ```
-@article{li2022learning,
-  title={Learning to Locate Visual Answer in Video Corpus Using Question},
+@INPROCEEDINGS{10096391,
   author={Li, Bin and Weng, Yixuan and Sun, Bin and Li, Shutao},
-  journal={arXiv preprint arXiv:2210.05423},
-  year={2022}
-}
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Learning To Locate Visual Answer In Video Corpus Using Question}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Location awareness;Training;Visualization;Natural languages;Signal processing;Predictive models;Benchmark testing;Video corpus;visual answer localization},
+  doi={10.1109/ICASSP49357.2023.10096391}}
+
 ```
 
 
@@ -179,12 +189,17 @@ python main.py --shape large \
 [PAPER](https://ieeexplore.ieee.org/document/10096391) [CODE](https://github.com/WENGSYX/MutualSL)
 
 ```
-@article{weng2022visual,
-  title={Visual Answer Localization with Cross-modal Mutual Knowledge Transfer},
+@INPROCEEDINGS{10095026,
   author={Weng, Yixuan and Li, Bin},
-  journal={arXiv preprint arXiv:2210.14823},
-  year={2022}
-}
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Visual Answer Localization with Cross-Modal Mutual Knowledge Transfer}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Location awareness;Visualization;Semantics;Natural languages;Signal processing;Predictive models;Acoustics;Cross-modal;Mutual Knowledge Transfer;Visual Answer Localization},
+  doi={10.1109/ICASSP49357.2023.10095026}}
+
 ```
 
 
