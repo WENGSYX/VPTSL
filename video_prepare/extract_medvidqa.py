@@ -152,9 +152,12 @@ if not os.path.exists(args.images_dir):
 if not os.path.exists(args.save_dir):
     os.makedirs(args.save_dir)
 
-#### download videos if required
-video_link_list= read_json_dataset_files(args.dataset_dir)
-download_all_videos(video_links=video_link_list)
+
+
+if 0:
+    #### download videos if required
+    video_link_list= read_json_dataset_files(args.dataset_dir)
+    download_all_videos(video_links=video_link_list)
 
 
 # create I3D model and load pre-trained model
